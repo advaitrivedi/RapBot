@@ -1,0 +1,147 @@
+--- Generating with seed: "ou be with
+keep this a secret, right by "
+ou be with
+keep this a secret, right by the
+timely and k's that's chorusuciy,
+my dade is fun juewithin'
+you santain'ahed the lest, thomber beef pc citols.
+leave your a niel's "viars..ly seat off yawah...nocking p
+y' lookin bitch in thef
+inly healeg and duster, slim  howned i just gotti before you. decly doctedilyin
+snife' to sell homy kerodings
+but only quiichin and gloode
+vaisinard cause lasin, now in my kidded
+so whank kids's back mr.
+
+-------------------------------------
+
+---- diversity: 0.2
+----- Generating with seed: "e new shit
+the type of shit that causes "
+e new shit
+the type of shit that causes the back of a can started and say
+i don't go to go to be the fuck of the chores
+i got a cound and the street of the car the start to the back
+and i ain't the party to the black to the life and started and say
+i don't like the cound and see the back to the back
+and starting to the fuck the black to the cord
+and i don't know when i want the black
+and startin me the back of the care starting to the b
+
+----- diversity: 0.5
+----- Generating with seed: "e new shit
+the type of shit that causes "
+e new shit
+the type of shit that causes the back of the crack
+in the corder come on a track to go for the shit the white loud and drank?
+on a place got and place it to the final home that i would be to the hood back
+and startin' of a beat that drop up in the fuck you carring to the man shady whith kill off the blaze shot to sell to see
+if you really say i would be the cauge in the calling me
+cause for the mouthto
+i'm starting a corch an
+
+----- diversity: 1.0
+----- Generating with seed: "e new shit
+the type of shit that causes "
+e new shit
+the type of shit that causes and in twi-liup
+cemine like a seat assemater quiis'bon and traich mc
+[eymed is stepe, the drivis, up crazy-oxaround from my davtulin' fitta it to the catch liffer
+wollllow the humpot, when see not friend up htr
+[verse na, dre "nch, can shops mom
+fgreat i could have what a net, i back cos,
+aint ture me with a mo's musin apain!
+a...
+what body wont telt i made some piindbore
+me can sick you made the 
+
+----- diversity: 1.2
+----- Generating with seed: "e new shit
+the type of shit that causes "
+e new shit
+the type of shit that causes on l'stoggenetere"uve
+oft,'s four good blockenys, could be about it to eve times
+jo bltich)
+get baby dhive's goh
+you got beat her madt
+rich volk!
+rap
+noinels sake gavermancta what?vu guve
+your muth final with the shad to leat a poppider
+she harr at it
+[chorus]
+as drade'sn't move jamo ain't to grey im day
+one boughts
+it's all i look you, whitg from my muthafull are pro?
+rils on the g-neom that blam
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+
+   128/423850 [....
+   
+   
+   
+ --- Generating with seed: " than pete, but i'm on a serch to crush "
+ than pete, but i'm on a serch to crush i got a poors
+this is a minute i got the mic and i got me
+i got a count the back of the street
+when i wanna be the song in the back to the shit
+and i got the shit i can got a minute i don't ain't start me in the street
+i'm so me in the sourder this is a shot and the mother i got a bitch with the bitch i got a minute
+i got a street of the back and i see the shit it
+i wanna be the mic and i got a st
+
+----- diversity: 0.5
+----- Generating with seed: " than pete, but i'm on a serch to crush "
+ than pete, but i'm on a serch to crush the oncent to start the fuckin and and i got gonna provered it
+get this is like a real scrack with a spinicide up and come on
+cause i got me thinking shit to didn't make it
+[eminem]
+i'm the gonna see the buster in the game singing a comin office that i tell me the last and i got it to flow
+and it's back of the world from the way i just have a show
+i don't be me
+give a fuck a bitch i would be the w
+
+----- diversity: 1.0
+----- Generating with seed: " than pete, but i'm on a serch to crush "
+ than pete, but i'm on a serch to crush down
+who on my marties
+endible to sing said up when i take the song
+like a menides, presid
+i'm not the your i like a slow,
+therruise with you block fuckin man
+ind even leave tha be beanges and i actims a new wrosp is hittin' a nigga
+when you were on them think
+and feeling dreped
+inside.. in the phine
+muthme nutsiss how choke the same a wange,res
+and a simped off, dall you're point
+and race: just t
+
+----- diversity: 1.2
+----- Generating with seed: " than pete, but i'm on a serch to crush "
+ than pete, but i'm on a serch to crush this slim kolace once
+and belong as it pusher,
+so
+your tiid, if me
+rain couse onf with
+who metten
+if he's block then wimpin the niarsha catch, youcke-itgots amup
+am skitba twirl this flowinet, and makiinipige foll kerunting?.
+(mama 'facted, wo be b?, creek
+they comes to get s, i kon'aly give hot firsats minusle
+this couldn't be two stick broom it bitch
+hosel on you're da ?like,
+fearing that
+tryin 
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+
+   128/423850 [..............................] - ETA: 628s - loss: 1.5044
+   256/423850   
+   
+Time over 2.5 hours   
